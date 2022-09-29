@@ -2,30 +2,29 @@
 > ⬇️ تعبئة معلومات المشروع بالعربية  
 <div dir="rtl">
 
-### اسم الطالب
+###  جراح جمال ميال
 
 
-### اسم المشروع
+### تطبيق طلب قهوة
 
 
 # شرح الفكرة
-المشكلة والحلول المطروحة إن وجدت
+تطبيق يساعد اصحاب الكافيات بعمل تطبيق للطلب اونلاين
 
 
-# الأعمال المستقبلية
+# اكمل التطبيق ووضع خيارات التوصيل والاستلام
 
 
 </div>
 
 > Fill out project information in English ⬇️
-### Student Name
+### jarrah mayyal
 
 
-### Project Name
+### Coffee shop app
 
 # Idea
-Problem and solutions if found 
-
+Allows café owners to receive online order
 
 # Future Work 
 
